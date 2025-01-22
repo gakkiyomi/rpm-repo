@@ -3,3 +3,5 @@
 
 * https://linuxsoft.cern.ch/cern/
 * http://ftp.cs.stanford.edu/
+* https://rpm.pbone.net/
+* https://www.rpmfind.net/linux/rpm2html/search.php
